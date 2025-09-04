@@ -264,7 +264,7 @@ Click the "Ask Me" button and get real-time movie details, ratings, summaries, a
   <div class="modal-backdrop" id="chatModal">
     <div class="chat-container">
       <div class="chat-header">
-        Chat With me!
+        Chat with me!
         <button class="close-button" id="closeButton">&times;</button>
       </div>
       <div class="chat-messages" id="chatMessages"></div>
