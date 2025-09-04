@@ -251,7 +251,7 @@
   <div class="welcome-text">CinematiQ</div>
 
   <div class="landing-page">
-    <p class="description-text">Welcome to your dynamic Movie Chatbot, powered by n8n, OMDb, and Gemini!
+    <p class="description-text">Welcome to dynamic Movie Chatbot, powered by n8n, OMDb, and Gemini!
 Click the "Ask Me" button and get real-time movie details, ratings, summaries, and even top picks by genre — from Comedy and Thriller to Adventure, Sci-Fi, and more.</p>
     <button class="ask-me-button" id="askMeButton">Ask me</button>
   </div>
